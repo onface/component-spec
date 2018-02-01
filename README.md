@@ -3,6 +3,7 @@
 > Web前端组件开发指南
 
 1. ~~[CSS命名规范](./chapter/css.md)~~ - 选择命名规范便于调试和自定义样式
+2. ~~[em使用规则](./chapter/em.md)~~ - 使组件样式更方便更改整体大小。各组件默认尺寸的私有制定。
 2. ~~[自定义界面](./chapter/custom-ui.md)~~ - 如何让使用者自定义界面。themes 接口、themes 的继承队列、完全自定义样式、完全自定义HTML结构
 3. ~~[二次封装](./chapter/package.md)~~ - 使用者新增接口
 4. ~~[接口设计](./chapter/api-design.md)~~ - 如何设计简单强大的接口
